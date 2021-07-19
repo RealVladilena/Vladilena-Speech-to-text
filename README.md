@@ -26,8 +26,8 @@ You just have to press f12 and go to your console to admire your text ^^
 
 ## Versions
 
-**Latest stable release:** 0.1
-**Latest version:** 0.1
+**Latest stable release:** 0.2
+**Latest version:** 0.2
 
 ## Author
 
