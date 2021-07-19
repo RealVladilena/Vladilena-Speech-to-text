@@ -10,17 +10,11 @@ You must first have [Python](https://www.python.org/) installed on your computer
 
 Extract files to a named folder of your choice
 
-- Start CMD
-- Redirect to your folder with this command: ``cd C:\Users\XXX\Desktop\XXX\``
-
 ### Startup
 
 (You should know that this program is in French by default. You can change this in the ``index.html``)
 
-You just have to start the server with the following command
-
--> ``py -m http.server (your desired port)``
-
+- Start ``exe.bat`` to launch the python server on port ``8886``
 
 The server is launched!
 
