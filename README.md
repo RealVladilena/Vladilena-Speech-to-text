@@ -20,7 +20,7 @@ The server is launched!
 
 ## Operation
 
-Launch your browser by entering ``localhost:(your port)``.
+Launch your browser by entering ``localhost:8886``.
 
 You just have to press f12 and go to your console to admire your text ^^
 
